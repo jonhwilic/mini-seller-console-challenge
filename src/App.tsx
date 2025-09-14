@@ -1,34 +1,48 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import { useState } from 'react'
+import { TopNavigation } from './components/top-navigation'
+import { Header } from './components/header'
+import { AppTitle } from './components/app-title'
+import { LeadsDataTable } from './features/leads/leads-data-table'
+import { OpportunitiesPage } from './features/opportunities/opportunities-page'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [currentPage, setCurrentPage] = useState('leads')
+
+  const renderCurrentPage = () => {
+    switch (currentPage) {
+      case 'leads':
+        return <LeadsDataTable />
+      case 'opportunities':
+        return <OpportunitiesPage />
+      default:
+        return <LeadsDataTable />
+    }
+  }
+
+  const getPageTitle = () => {
+    switch (currentPage) {
+      case 'leads':
+        return 'Leads'
+      case 'opportunities':
+        return 'Opportunities'
+      default:
+        return 'Leads'
+    }
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div className="min-h-screen bg-gray-50">
+      <TopNavigation currentPage={currentPage} onPageChange={setCurrentPage} />
+      <div className="flex flex-col">
+        <Header>
+          <AppTitle title={getPageTitle()} />
+        </Header>
+        <main className="flex-1 p-6">
+          {renderCurrentPage()}
+        </main>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </div>
   )
 }
 

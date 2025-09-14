@@ -1,0 +1,1524 @@
+{
+  "opportunities": [
+    {
+      "id": 1757866501951,
+      "name": "Zeca Tavares - Opportunity",
+      "stage": "Prospecting",
+      "accountName": "Nimbus Cloud"
+    }
+  ],
+  "leads": [
+    {
+      "name": "B",
+      "company": "Helio Doe Inc",
+      "email": "john.doe@example.com",
+      "source": "Totalpass",
+      "score": 90,
+      "status": "Lost",
+      "id": "4"
+    },
+    {
+      "name": "Fernanda Pereira",
+      "company": "Nova Energia Ltda",
+      "email": "fernanda.pereira@novaenergialtda.com",
+      "source": "Event",
+      "score": 34,
+      "status": "Contacted",
+      "id": "2"
+    },
+    {
+      "name": "Lucas Jardim",
+      "company": "Magna Construções",
+      "email": "lucas.jardim@magnaconstrucoes.com",
+      "source": "LinkedIn",
+      "score": 58,
+      "status": "Qualified",
+      "id": "3"
+    },
+    {
+      "name": "Fabiana Nascimento",
+      "company": "Lumina Health",
+      "email": "fabiana.nascimento@luminahealth.com",
+      "source": "Partner",
+      "score": 86,
+      "status": "Lost",
+      "id": "5"
+    },
+    {
+      "name": "Karen Ferraz",
+      "company": "Delta Engenharia",
+      "email": "karen.ferraz@deltaengenharia.com",
+      "source": "Ads",
+      "score": 37,
+      "status": "New",
+      "id": "6"
+    },
+    {
+      "name": "Lucas Duarte",
+      "company": "Catarina Têxtil",
+      "email": "lucas.duarte@catarinatextil.com",
+      "source": "Website",
+      "score": 64,
+      "status": "Converted",
+      "id": "7"
+    },
+    {
+      "name": "Hugo Oliveira",
+      "company": "Nimbus Cloud",
+      "email": "hugo.oliveira@nimbuscloud.com",
+      "source": "Ads",
+      "score": 20,
+      "status": "Converted",
+      "id": "9"
+    },
+    {
+      "name": "Arthur Queiroz",
+      "company": "Flora Cosméticos",
+      "email": "arthur.queiroz@floracosmeticos.com",
+      "source": "Ads",
+      "score": 90,
+      "status": "Qualified",
+      "id": "10"
+    },
+    {
+      "name": "João Ortega",
+      "company": "InovaSoft",
+      "email": "joao.ortega@inovasoft.com",
+      "source": "LinkedIn",
+      "score": 83,
+      "status": "Qualified",
+      "id": "11"
+    },
+    {
+      "name": "Vitor Yamada",
+      "company": "Flora Cosméticos",
+      "email": "vitor.yamada@floracosmeticos.com",
+      "source": "Event",
+      "score": 43,
+      "status": "Qualified",
+      "id": "12"
+    },
+    {
+      "name": "Felipe Esteves",
+      "company": "Flora Cosméticos",
+      "email": "felipe.esteves@floracosmeticos.com",
+      "source": "Event",
+      "score": 67,
+      "status": "New",
+      "id": "13"
+    },
+    {
+      "name": "Olivia Dias",
+      "company": "Umbra Security",
+      "email": "olivia.dias@umbrasecurity.com",
+      "source": "Partner",
+      "score": 46,
+      "status": "Qualified",
+      "id": "14"
+    },
+    {
+      "name": "Isabela Campos",
+      "company": "Horizon Realty",
+      "email": "isabela.campos@horizonrealty.com",
+      "source": "Social",
+      "score": 1,
+      "status": "Qualified",
+      "id": "15"
+    },
+    {
+      "name": "Thiago Queiroz",
+      "company": "Catarina Têxtil",
+      "email": "thiago.queiroz@catarinatextil.com",
+      "source": "Partner",
+      "score": 28,
+      "status": "Converted",
+      "id": "16"
+    },
+    {
+      "name": "Bruno Batista",
+      "company": "Everest Finance",
+      "email": "bruno.batista@everestfinance.com",
+      "source": "Event",
+      "score": 16,
+      "status": "Qualified",
+      "id": "17"
+    },
+    {
+      "name": "Diana Araujo",
+      "company": "XLab Biotech",
+      "email": "diana.araujo@xlabbiotech.com",
+      "source": "Cold call",
+      "score": 16,
+      "status": "Converted",
+      "id": "18"
+    },
+    {
+      "name": "Renata Iglesias",
+      "company": "Boreal Mining",
+      "email": "renata.iglesias@borealmining.com",
+      "source": "Website",
+      "score": 94,
+      "status": "Qualified",
+      "id": "19"
+    },
+    {
+      "name": "William Quintana",
+      "company": "Kayak Travel",
+      "email": "william.quintana@kayaktravel.com",
+      "source": "Referral",
+      "score": 89,
+      "status": "Contacted",
+      "id": "20"
+    },
+    {
+      "name": "Bianca Xavier",
+      "company": "Ribeiro Advogados",
+      "email": "bianca.xavier@ribeiroadvogados.com",
+      "source": "Ads",
+      "score": 49,
+      "status": "Converted",
+      "id": "21"
+    },
+    {
+      "name": "Gustavo Neves",
+      "company": "Aurora Telecom",
+      "email": "gustavo.neves@auroratelecom.com",
+      "source": "Cold call",
+      "score": 46,
+      "status": "Qualified",
+      "id": "22"
+    },
+    {
+      "name": "Diego Rezende",
+      "company": "Café Brasil SA",
+      "email": "diego.rezende@cafbrasilsa.com",
+      "source": "LinkedIn",
+      "score": 57,
+      "status": "Contacted",
+      "id": "23"
+    },
+    {
+      "name": "Sofia Teixeira",
+      "company": "Global Motors",
+      "email": "sofia.teixeira@globalmotors.com",
+      "source": "Partner",
+      "score": 1,
+      "status": "Contacted",
+      "id": "24"
+    },
+    {
+      "name": "Diana Pontes",
+      "company": "UrbanFoods Co",
+      "email": "diana.pontes@urbanfoodsco.com",
+      "source": "Ads",
+      "score": 10,
+      "status": "Contacted",
+      "id": "25"
+    },
+    {
+      "name": "Diana Teixeira",
+      "company": "Pluma Moda",
+      "email": "diana.teixeira@plumamoda.com",
+      "source": "Website",
+      "score": 62,
+      "status": "Converted",
+      "id": "26"
+    },
+    {
+      "name": "Zeca Vieira",
+      "company": "Catarina Têxtil",
+      "email": "zeca.vieira@catarinatxtil.com",
+      "source": "Website",
+      "score": 83,
+      "status": "Converted",
+      "id": "27"
+    },
+    {
+      "name": "Heitor Souza",
+      "company": "Aurum Bank",
+      "email": "heitor.souza@aurumbank.com",
+      "source": "Cold call",
+      "score": 0,
+      "status": "Qualified",
+      "id": "28"
+    },
+    {
+      "name": "Diana Almeida",
+      "company": "Kosmos Aero",
+      "email": "diana.almeida@kosmosaero.com",
+      "source": "Website",
+      "score": 55,
+      "status": "New",
+      "id": "29"
+    },
+    {
+      "name": "Sofia Ortega",
+      "company": "Boreal Mining",
+      "email": "sofia.ortega@borealmining.com",
+      "source": "Ads",
+      "score": 96,
+      "status": "Converted",
+      "id": "30"
+    },
+    {
+      "name": "Eduardo Esteves",
+      "company": "BlueRiver Systems",
+      "email": "eduardo.esteves@blueriversystems.com",
+      "source": "Email",
+      "score": 71,
+      "status": "New",
+      "id": "31"
+    },
+    {
+      "name": "Lucas Dias",
+      "company": "Nimbus Cloud",
+      "email": "lucas.dias@nimbuscloud.com",
+      "source": "Referral",
+      "score": 35,
+      "status": "Qualified",
+      "id": "32"
+    },
+    {
+      "name": "Caio Souza",
+      "company": "Helios Energia Solar",
+      "email": "caio.souza@heliosenergiasolar.com",
+      "source": "Cold call",
+      "score": 78,
+      "status": "Converted",
+      "id": "33"
+    },
+    {
+      "name": "Priscila Urbinati",
+      "company": "Catarina Têxtil",
+      "email": "priscila.urbinati@catarinatxtil.com",
+      "source": "Referral",
+      "score": 48,
+      "status": "Lost",
+      "id": "34"
+    },
+    {
+      "name": "Bianca Vasconcelos",
+      "company": "Pixel Labs",
+      "email": "bianca.vasconcelos@pixellabs.com",
+      "source": "Cold call",
+      "score": 55,
+      "status": "Converted",
+      "id": "35"
+    },
+    {
+      "name": "Mateus Silva",
+      "company": "Orion Data",
+      "email": "mateus.silva@oriondata.com",
+      "source": "Social",
+      "score": 63,
+      "status": "Converted",
+      "id": "36"
+    },
+    {
+      "name": "Fernanda Queiroz",
+      "company": "Magna Construções",
+      "email": "fernanda.queiroz@magnaconstrues.com",
+      "source": "LinkedIn",
+      "score": 85,
+      "status": "New",
+      "id": "37"
+    },
+    {
+      "name": "Talita Araujo",
+      "company": "Kayak Travel",
+      "email": "talita.araujo@kayaktravel.com",
+      "source": "Partner",
+      "score": 20,
+      "status": "Contacted",
+      "id": "38"
+    },
+    {
+      "name": "Caio Rezende",
+      "company": "Horizon Realty",
+      "email": "caio.rezende@horizonrealty.com",
+      "source": "Partner",
+      "score": 15,
+      "status": "Converted",
+      "id": "39"
+    },
+    {
+      "name": "Paulo Iglesias",
+      "company": "Horizon Realty",
+      "email": "paulo.iglesias@horizonrealty.com",
+      "source": "Event",
+      "score": 5,
+      "status": "Lost",
+      "id": "40"
+    },
+    {
+      "name": "Kelly Iglesias",
+      "company": "Pixel Labs",
+      "email": "kelly.iglesias@pixellabs.com",
+      "source": "Cold call",
+      "score": 32,
+      "status": "Contacted",
+      "id": "41"
+    },
+    {
+      "name": "Xavier Tavares",
+      "company": "Horizon Realty",
+      "email": "xavier.tavares@horizonrealty.com",
+      "source": "LinkedIn",
+      "score": 61,
+      "status": "Lost",
+      "id": "42"
+    },
+    {
+      "name": "Vitor Yamada",
+      "company": "Fênix Seguros",
+      "email": "vitor.yamada@fnixseguros.com",
+      "source": "Website",
+      "score": 92,
+      "status": "New",
+      "id": "43"
+    },
+    {
+      "name": "Zeca Rezende",
+      "company": "WayUp E-commerce",
+      "email": "zeca.rezende@wayupecommerce.com",
+      "source": "Cold call",
+      "score": 61,
+      "status": "Lost",
+      "id": "44"
+    },
+    {
+      "name": "Heitor Garcia",
+      "company": "Café Brasil SA",
+      "email": "heitor.garcia@cafbrasilsa.com",
+      "source": "Ads",
+      "score": 80,
+      "status": "Lost",
+      "id": "45"
+    },
+    {
+      "name": "Quintino Kawasaki",
+      "company": "Flora Cosméticos",
+      "email": "quintino.kawasaki@floracosmticos.com",
+      "source": "Website",
+      "score": 19,
+      "status": "Lost",
+      "id": "46"
+    },
+    {
+      "name": "William Oliveira",
+      "company": "Kayak Travel",
+      "email": "william.oliveira@kayaktravel.com",
+      "source": "Partner",
+      "score": 85,
+      "status": "Lost",
+      "id": "47"
+    },
+    {
+      "name": "Talita Ferraz",
+      "company": "Nimbus Cloud",
+      "email": "talita.ferraz@nimbuscloud.com",
+      "source": "LinkedIn",
+      "score": 28,
+      "status": "Lost",
+      "id": "48"
+    },
+    {
+      "name": "Leonardo Watanabe",
+      "company": "Helios Energia Solar",
+      "email": "leonardo.watanabe@heliosenergiasolar.com",
+      "source": "Ads",
+      "score": 55,
+      "status": "Contacted",
+      "id": "49"
+    },
+    {
+      "name": "Bruno Hernandez",
+      "company": "Solaris Energia",
+      "email": "bruno.hernandez@solarisenergia.com",
+      "source": "Website",
+      "score": 29,
+      "status": "New",
+      "id": "50"
+    },
+    {
+      "name": "Julia Queiroz",
+      "company": "GreenField Partners",
+      "email": "julia.queiroz@greenfieldpartners.com",
+      "source": "Partner",
+      "score": 43,
+      "status": "Qualified",
+      "id": "51"
+    },
+    {
+      "name": "William Ibrahim",
+      "company": "Global Motors",
+      "email": "william.ibrahim@globalmotors.com",
+      "source": "LinkedIn",
+      "score": 25,
+      "status": "Qualified",
+      "id": "52"
+    },
+    {
+      "name": "Enzo Vasconcelos",
+      "company": "Terra Verde Agro",
+      "email": "enzo.vasconcelos@terraverdeagro.com",
+      "source": "LinkedIn",
+      "score": 7,
+      "status": "New",
+      "id": "53"
+    },
+    {
+      "name": "Mariana Gomes",
+      "company": "BrightWave Media",
+      "email": "mariana.gomes@brightwavemedia.com",
+      "source": "LinkedIn",
+      "score": 20,
+      "status": "Contacted",
+      "id": "54"
+    },
+    {
+      "name": "Bruno Iglesias",
+      "company": "Magna Construções",
+      "email": "bruno.iglesias@magnaconstrues.com",
+      "source": "Social",
+      "score": 70,
+      "status": "Contacted",
+      "id": "55"
+    },
+    {
+      "name": "Giovana Souza",
+      "company": "Vita Education",
+      "email": "giovana.souza@vitaeducation.com",
+      "source": "Website",
+      "score": 62,
+      "status": "Lost",
+      "id": "56"
+    },
+    {
+      "name": "Olivia Macedo",
+      "company": "Kosmos Aero",
+      "email": "olivia.macedo@kosmosaero.com",
+      "source": "Email",
+      "score": 11,
+      "status": "Contacted",
+      "id": "57"
+    },
+    {
+      "name": "Heitor Ortega",
+      "company": "Yummy Foods",
+      "email": "heitor.ortega@yummyfoods.com",
+      "source": "Email",
+      "score": 65,
+      "status": "New",
+      "id": "58"
+    },
+    {
+      "name": "Yara Ortega",
+      "company": "Flora Cosméticos",
+      "email": "yara.ortega@floracosmticos.com",
+      "source": "Partner",
+      "score": 55,
+      "status": "Qualified",
+      "id": "59"
+    },
+    {
+      "name": "Fabiana Araujo",
+      "company": "XLab Biotech",
+      "email": "fabiana.araujo@xlabbiotech.com",
+      "source": "LinkedIn",
+      "score": 52,
+      "status": "Contacted",
+      "id": "60"
+    },
+    {
+      "name": "Zeca Tavares",
+      "company": "Nimbus Cloud",
+      "email": "zeca.tavares@tiimbus.com",
+      "source": "Website",
+      "score": 99,
+      "status": "Converted",
+      "id": "61"
+    },
+    {
+      "name": "Lucas Dias",
+      "company": "TechCorp Solutions",
+      "email": "lucas.dias@techcorpsolutions.com",
+      "source": "Email",
+      "score": 84,
+      "status": "Converted",
+      "id": "62"
+    },
+    {
+      "name": "Priscila Ximenes",
+      "company": "InovaSoft",
+      "email": "priscila.ximenes@inovasoft.com",
+      "source": "LinkedIn",
+      "score": 92,
+      "status": "Contacted",
+      "id": "63"
+    },
+    {
+      "name": "Natália Vieira",
+      "company": "UrbanFoods Co",
+      "email": "natlia.vieira@urbanfoodsco.com",
+      "source": "Partner",
+      "score": 34,
+      "status": "Qualified",
+      "id": "64"
+    },
+    {
+      "name": "Priscila Leal",
+      "company": "Orion Data",
+      "email": "priscila.leal@oriondata.com",
+      "source": "Cold call",
+      "score": 66,
+      "status": "Lost",
+      "id": "65"
+    },
+    {
+      "name": "Talita Batista",
+      "company": "Amazônia Export",
+      "email": "talita.batista@amazniaexport.com",
+      "source": "Ads",
+      "score": 58,
+      "status": "Contacted",
+      "id": "66"
+    },
+    {
+      "name": "Natália Xavier",
+      "company": "TechCorp Solutions",
+      "email": "natlia.xavier@techcorpsolutions.com",
+      "source": "Website",
+      "score": 3,
+      "status": "Contacted",
+      "id": "67"
+    },
+    {
+      "name": "Fabiana Vasconcelos",
+      "company": "Zenith Logistics",
+      "email": "fabiana.vasconcelos@zenithlogistics.com",
+      "source": "Ads",
+      "score": 85,
+      "status": "Qualified",
+      "id": "68"
+    },
+    {
+      "name": "Lucas Moraes",
+      "company": "Umbra Security",
+      "email": "lucas.moraes@umbrasecurity.com",
+      "source": "Partner",
+      "score": 84,
+      "status": "Qualified",
+      "id": "69"
+    },
+    {
+      "name": "Ana Vasconcelos",
+      "company": "Orion Data",
+      "email": "ana.vasconcelos@oriondata.com",
+      "source": "Referral",
+      "score": 27,
+      "status": "Contacted",
+      "id": "70"
+    },
+    {
+      "name": "Lucas Pereira",
+      "company": "Magna Construções",
+      "email": "lucas.pereira@magnaconstrues.com",
+      "source": "Social",
+      "score": 5,
+      "status": "Lost",
+      "id": "71"
+    },
+    {
+      "name": "Mariana Tavares",
+      "company": "Quasar IT",
+      "email": "mariana.tavares@quasarit.com",
+      "source": "Referral",
+      "score": 56,
+      "status": "Contacted",
+      "id": "72"
+    },
+    {
+      "name": "Paulo Klein",
+      "company": "Café Brasil SA",
+      "email": "paulo.klein@cafbrasilsa.com",
+      "source": "Ads",
+      "score": 10,
+      "status": "Lost",
+      "id": "73"
+    },
+    {
+      "name": "Natália Queiroz",
+      "company": "Zenith Logistics",
+      "email": "natlia.queiroz@zenithlogistics.com",
+      "source": "Email",
+      "score": 91,
+      "status": "Contacted",
+      "id": "74"
+    },
+    {
+      "name": "Arthur Tavares",
+      "company": "BrightWave Media",
+      "email": "arthur.tavares@brightwavemedia.com",
+      "source": "LinkedIn",
+      "score": 86,
+      "status": "Converted",
+      "id": "75"
+    },
+    {
+      "name": "Ana Werneck",
+      "company": "Aurora Telecom",
+      "email": "ana.werneckauroratel",
+      "source": "Referral",
+      "score": 45,
+      "status": "New",
+      "id": "76"
+    },
+    {
+      "name": "Nicolas Iglesias",
+      "company": "Zetta AI",
+      "email": "nicolas.iglesias@zettaai.com",
+      "source": "LinkedIn",
+      "score": 57,
+      "status": "Converted",
+      "id": "77"
+    },
+    {
+      "name": "Gustavo Dias",
+      "company": "InovaSoft",
+      "email": "gustavo.dias@inovasoft.com",
+      "source": "Website",
+      "score": 2,
+      "status": "Qualified",
+      "id": "78"
+    },
+    {
+      "name": "Olivia Urbinati",
+      "company": "Magna Construções",
+      "email": "olivia.urbinati@magnaconstrues.com",
+      "source": "Partner",
+      "score": 49,
+      "status": "New",
+      "id": "79"
+    },
+    {
+      "name": "William Neves",
+      "company": "Nova Energia Ltda",
+      "email": "william.neves@novaenergialtda.com",
+      "source": "LinkedIn",
+      "score": 55,
+      "status": "Converted",
+      "id": "80"
+    },
+    {
+      "name": "Valeria Urbinati",
+      "company": "Kayak Travel",
+      "email": "valeria.urbinati@kayaktravel.com",
+      "source": "Referral",
+      "score": 51,
+      "status": "Converted",
+      "id": "81"
+    },
+    {
+      "name": "Rafael Vasconcelos",
+      "company": "TechCorp Solutions",
+      "email": "rafael.vasconcelos@techcorpsolutions.com",
+      "source": "Cold call",
+      "score": 55,
+      "status": "Converted",
+      "id": "82"
+    },
+    {
+      "name": "Talita Ferraz",
+      "company": "Flora Cosméticos",
+      "email": "talita.ferraz@floracosmticos.com",
+      "source": "Website",
+      "score": 48,
+      "status": "Contacted",
+      "id": "83"
+    },
+    {
+      "name": "Bruno Watanabe",
+      "company": "Eclipse Games",
+      "email": "bruno.watanabe@eclipsegames.com",
+      "source": "Email",
+      "score": 84,
+      "status": "Converted",
+      "id": "84"
+    },
+    {
+      "name": "Ulisses Pereira",
+      "company": "Solaris Energia",
+      "email": "ulisses.pereira@solarisenergia.com",
+      "source": "Cold call",
+      "score": 36,
+      "status": "Qualified",
+      "id": "85"
+    },
+    {
+      "name": "Fabiana Esteves",
+      "company": "BrightWave Media",
+      "email": "fabiana.esteves@brightwavemedia.com",
+      "source": "Website",
+      "score": 76,
+      "status": "Qualified",
+      "id": "86"
+    },
+    {
+      "name": "Igor Almeida",
+      "company": "BrightWave Media",
+      "email": "igor.almeida@brightwavemedia.com",
+      "source": "Email",
+      "score": 9,
+      "status": "Contacted",
+      "id": "87"
+    },
+    {
+      "name": "Caio Urbinati",
+      "company": "Gaia Ambiental",
+      "email": "caio.urbinati@gaiaambiental.com",
+      "source": "Social",
+      "score": 25,
+      "status": "New",
+      "id": "88"
+    },
+    {
+      "name": "Diego Silva",
+      "company": "Magna Construções",
+      "email": "diego.silva@magnaconstrues.com",
+      "source": "Cold call",
+      "score": 25,
+      "status": "Converted",
+      "id": "89"
+    },
+    {
+      "name": "Heitor Klein",
+      "company": "Fênix Seguros",
+      "email": "heitor.klein@fnixseguros.com",
+      "source": "Referral",
+      "score": 6,
+      "status": "Converted",
+      "id": "90"
+    },
+    {
+      "name": "Fernanda Souza",
+      "company": "Fênix Seguros",
+      "email": "fernanda.souza@fnixseguros.com",
+      "source": "Website",
+      "score": 15,
+      "status": "Lost",
+      "id": "91"
+    },
+    {
+      "name": "Giovana Queiroz",
+      "company": "Vita Education",
+      "email": "giovana.queiroz@vitaeducation.com",
+      "source": "Event",
+      "score": 23,
+      "status": "Contacted",
+      "id": "92"
+    },
+    {
+      "name": "Natália Dias",
+      "company": "Helios Energia Solar",
+      "email": "natlia.dias@heliosenergiasolar.com",
+      "source": "Website",
+      "score": 98,
+      "status": "Converted",
+      "id": "93"
+    },
+    {
+      "name": "Samantha Souza",
+      "company": "Gaia Ambiental",
+      "email": "samantha.souza@gaiaambiental.com",
+      "source": "Ads",
+      "score": 67,
+      "status": "Contacted",
+      "id": "94"
+    },
+    {
+      "name": "Renata Queiroz",
+      "company": "Helios Energia Solar",
+      "email": "renata.queiroz@heliosenergiasolar.com",
+      "source": "Email",
+      "score": 30,
+      "status": "Qualified",
+      "id": "95"
+    },
+    {
+      "name": "Samantha Iglesias",
+      "company": "Atlas Ventures",
+      "email": "samantha.iglesias@atlasventures.com",
+      "source": "Ads",
+      "score": 35,
+      "status": "Contacted",
+      "id": "96"
+    },
+    {
+      "name": "Zeca Ferraz",
+      "company": "Vita Education",
+      "email": "zeca.ferraz@vitaeducation.com",
+      "source": "Partner",
+      "score": 2,
+      "status": "New",
+      "id": "97"
+    },
+    {
+      "name": "Fernanda Quintana",
+      "company": "Boreal Mining",
+      "email": "fernanda.quintana@borealmining.com",
+      "source": "Partner",
+      "score": 24,
+      "status": "Lost",
+      "id": "98"
+    },
+    {
+      "name": "Mateus Dias",
+      "company": "Café Brasil SA",
+      "email": "mateus.dias@cafbrasilsa.com",
+      "source": "Cold call",
+      "score": 39,
+      "status": "Contacted",
+      "id": "99"
+    },
+    {
+      "name": "Rafael Vasconcelos",
+      "company": "BlueRiver Systems",
+      "email": "rafael.vasconcelos@blueriversystems.com",
+      "source": "Referral",
+      "score": 21,
+      "status": "Contacted",
+      "id": "100"
+    },
+    {
+      "name": "Julia Yamada",
+      "company": "Helios Energia Solar",
+      "email": "julia.yamada@heliosenergiasolar.com",
+      "source": "LinkedIn",
+      "score": 43,
+      "status": "Converted",
+      "id": "101"
+    },
+    {
+      "name": "William Almeida",
+      "company": "UrbanFoods Co",
+      "email": "william.almeida@urbanfoodsco.com",
+      "source": "Partner",
+      "score": 92,
+      "status": "Converted",
+      "id": "102"
+    },
+    {
+      "name": "Diana Gomes",
+      "company": "Everest Finance",
+      "email": "diana.gomes@everestfinance.com",
+      "source": "Email",
+      "score": 85,
+      "status": "Converted",
+      "id": "103"
+    },
+    {
+      "name": "Samantha Vieira",
+      "company": "Neon Pay",
+      "email": "samantha.vieira@neonpay.com",
+      "source": "Referral",
+      "score": 9,
+      "status": "Qualified",
+      "id": "104"
+    },
+    {
+      "name": "Zeca Zanetti",
+      "company": "Orion Data",
+      "email": "zeca.zanetti@oriondata.com",
+      "source": "Email",
+      "score": 22,
+      "status": "Converted",
+      "id": "105"
+    },
+    {
+      "name": "Otávio Vasconcelos",
+      "company": "Horizon Realty",
+      "email": "otavio.vasconcelos@horizonrealty.com",
+      "source": "LinkedIn",
+      "score": 6,
+      "status": "Qualified",
+      "id": "106"
+    },
+    {
+      "name": "Nicolas Urbinati",
+      "company": "Umbra Security",
+      "email": "nicolas.urbinati@umbrasecurity.com",
+      "source": "Cold call",
+      "score": 3,
+      "status": "New",
+      "id": "107"
+    },
+    {
+      "name": "Rafael Zanetti",
+      "company": "Domus Arquitetura",
+      "email": "rafael.zanetti@domusarquitetura.com",
+      "source": "Website",
+      "score": 80,
+      "status": "Converted",
+      "id": "108"
+    },
+    {
+      "name": "Diana Garcia",
+      "company": "XLab Biotech",
+      "email": "diana.garcia@xlabbiotech.com",
+      "source": "Social",
+      "score": 28,
+      "status": "Lost",
+      "id": "109"
+    },
+    {
+      "name": "Julia Ibrahim",
+      "company": "Yummy Foods",
+      "email": "julia.ibrahim@yummyfoods.com",
+      "source": "Website",
+      "score": 36,
+      "status": "Qualified",
+      "id": "110"
+    },
+    {
+      "name": "Giovana Vieira",
+      "company": "Solaris Energia",
+      "email": "giovana.vieira@solarisenergia.com",
+      "source": "Email",
+      "score": 45,
+      "status": "Lost",
+      "id": "111"
+    },
+    {
+      "name": "Gustavo Farias",
+      "company": "Atlas Ventures",
+      "email": "gustavo.farias@atlasventures.com",
+      "source": "LinkedIn",
+      "score": 4,
+      "status": "Contacted",
+      "id": "112"
+    },
+    {
+      "name": "Fernanda Lima",
+      "company": "XLab Biotech",
+      "email": "fernanda.lima@xlabbiotech.com",
+      "source": "Partner",
+      "score": 95,
+      "status": "Lost",
+      "id": "113"
+    },
+    {
+      "name": "Sofia Vasconcelos",
+      "company": "Delta Engenharia",
+      "email": "sofia.vasconcelos@deltaengenharia.com",
+      "source": "Event",
+      "score": 83,
+      "status": "Lost",
+      "id": "114"
+    },
+    {
+      "name": "Carla Pontes",
+      "company": "Nova Energia Ltda",
+      "email": "carla.pontes@novaenergialtda.com",
+      "source": "Partner",
+      "score": 81,
+      "status": "Contacted",
+      "id": "115"
+    },
+    {
+      "name": "Helena Jardim",
+      "company": "Nova Energia Ltda",
+      "email": "helena.jardim@novaenergialtda.com",
+      "source": "Ads",
+      "score": 96,
+      "status": "Converted",
+      "id": "116"
+    },
+    {
+      "name": "Camila Ibrahim",
+      "company": "Fênix Seguros",
+      "email": "camila.ibrahim@fenixseguros.com",
+      "source": "Partner",
+      "score": 11,
+      "status": "Converted",
+      "id": "117"
+    },
+    {
+      "name": "Felipe Yamada",
+      "company": "Orion Data",
+      "email": "felipe.yamada@oriondata.com",
+      "source": "Referral",
+      "score": 9,
+      "status": "New",
+      "id": "118"
+    },
+    {
+      "name": "William Esteves",
+      "company": "Everest Finance",
+      "email": "william.esteves@everestfinance.com",
+      "source": "Partner",
+      "score": 21,
+      "status": "Lost",
+      "id": "119"
+    },
+    {
+      "name": "Giovana Ximenes",
+      "company": "InovaSoft",
+      "email": "giovana.ximenes@inovasoft.com",
+      "source": "Cold call",
+      "score": 3,
+      "status": "Lost",
+      "id": "120"
+    },
+    {
+      "name": "Vitor Leal",
+      "company": "Ribeiro Advogados",
+      "email": "vitor.leal@ribeiroadvogados.com",
+      "source": "Cold call",
+      "score": 64,
+      "status": "Lost",
+      "id": "121"
+    },
+    {
+      "name": "Giovana Cardoso",
+      "company": "GreenField Partners",
+      "email": "giovana.cardoso@greenfieldpartners.com",
+      "source": "Email",
+      "score": 3,
+      "status": "New",
+      "id": "122"
+    },
+    {
+      "name": "Karen Campos",
+      "company": "Delta Engenharia",
+      "email": "karen.campos@deltaengenharia.com",
+      "source": "Referral",
+      "score": 60,
+      "status": "Contacted",
+      "id": "123"
+    },
+    {
+      "name": "Bruno Teixeira",
+      "company": "Lumina Health",
+      "email": "bruno.teixeira@luminahealth.com",
+      "source": "Website",
+      "score": 43,
+      "status": "Converted",
+      "id": "124"
+    },
+    {
+      "name": "Vitor Dias",
+      "company": "Flora Cosméticos",
+      "email": "vitor.dias@floracosmeticos.com",
+      "source": "Email",
+      "score": 18,
+      "status": "Lost",
+      "id": "125"
+    },
+    {
+      "name": "Brenda Pontes",
+      "company": "Terra Verde Agro",
+      "email": "brenda.pontes@terraverdeagro.com",
+      "source": "Website",
+      "score": 42,
+      "status": "Qualified",
+      "id": "126"
+    },
+    {
+      "name": "Otávio Queiroz",
+      "company": "Aurum Bank",
+      "email": "otavio.queiroz@aurumbank.com",
+      "source": "Cold call",
+      "score": 83,
+      "status": "Converted",
+      "id": "127"
+    },
+    {
+      "name": "Carla Jardim",
+      "company": "Pixel Labs",
+      "email": "carla.jardim@pixellabs.com",
+      "source": "Email",
+      "score": 94,
+      "status": "Qualified",
+      "id": "128"
+    },
+    {
+      "name": "Nicolas Pontes",
+      "company": "Orion Data",
+      "email": "nicolas.pontes@oriondata.com",
+      "source": "Partner",
+      "score": 15,
+      "status": "Qualified",
+      "id": "129"
+    },
+    {
+      "name": "Diana Batista",
+      "company": "UrbanFoods Co",
+      "email": "diana.batista@urbanfoodsco.com",
+      "source": "Cold call",
+      "score": 24,
+      "status": "New",
+      "id": "130"
+    },
+    {
+      "name": "Fernanda Nascimento",
+      "company": "Juno Sports",
+      "email": "fernanda.nascimento@junosports.com",
+      "source": "LinkedIn",
+      "score": 67,
+      "status": "New",
+      "id": "131"
+    },
+    {
+      "name": "Samantha Campos",
+      "company": "Atlas Ventures",
+      "email": "samantha.campos@atlasventures.com",
+      "source": "Ads",
+      "score": 48,
+      "status": "New",
+      "id": "132"
+    },
+    {
+      "name": "Priscila Iglesias",
+      "company": "Zenith Logistics",
+      "email": "priscila.iglesias@zenithlogistics.com",
+      "source": "Partner",
+      "score": 99,
+      "status": "Converted",
+      "id": "133"
+    },
+    {
+      "name": "Caio Watanabe",
+      "company": "Umbra Security",
+      "email": "caio.watanabe@umbrasecurity.com",
+      "source": "Social",
+      "score": 34,
+      "status": "Qualified",
+      "id": "134"
+    },
+    {
+      "name": "Mateus Tavares",
+      "company": "Quasar IT",
+      "email": "mateus.tavares@quasarit.com",
+      "source": "Ads",
+      "score": 55,
+      "status": "Converted",
+      "id": "135"
+    },
+    {
+      "name": "Yasmin Werneck",
+      "company": "Horizon Realty",
+      "email": "yasmin.werneck@horizonrealty.com",
+      "source": "Event",
+      "score": 76,
+      "status": "Converted",
+      "id": "136"
+    },
+    {
+      "name": "Fabiana Batista",
+      "company": "InovaSoft",
+      "email": "fabiana.batista@inovasoft.com",
+      "source": "LinkedIn",
+      "score": 22,
+      "status": "Lost",
+      "id": "137"
+    },
+    {
+      "name": "Bianca Araujo",
+      "company": "BlueRiver Systems",
+      "email": "bianca.araujo@blueriversystems.com",
+      "source": "Email",
+      "score": 50,
+      "status": "Qualified",
+      "id": "138"
+    },
+    {
+      "name": "Valeria Vasconcelos",
+      "company": "XLab Biotech",
+      "email": "valeria.vasconcelos@xlabbiotech.com",
+      "source": "Cold call",
+      "score": 34,
+      "status": "Lost",
+      "id": "139"
+    },
+    {
+      "name": "Leonardo Leal",
+      "company": "TechCorp Solutions",
+      "email": "leonardo.leal@techcorpsolutions.com",
+      "source": "Website",
+      "score": 99,
+      "status": "Converted",
+      "id": "140"
+    },
+    {
+      "name": "Natália Farias",
+      "company": "XLab Biotech",
+      "email": "natalia.farias@xlabbiotech.com",
+      "source": "Referral",
+      "score": 87,
+      "status": "Contacted",
+      "id": "141"
+    },
+    {
+      "name": "Samantha Farias",
+      "company": "Kosmos Aero",
+      "email": "samantha.farias@kosmosaero.com",
+      "source": "Referral",
+      "score": 73,
+      "status": "Converted",
+      "id": "142"
+    },
+    {
+      "name": "Julia Moraes",
+      "company": "BrightWave Media",
+      "email": "julia.moraes@brightwavemedia.com",
+      "source": "Social",
+      "score": 67,
+      "status": "Lost",
+      "id": "143"
+    },
+    {
+      "name": "Lucas Klein",
+      "company": "BlueRiver Systems",
+      "email": "lucas.klein@blueriversystems.com",
+      "source": "Referral",
+      "score": 41,
+      "status": "Converted",
+      "id": "144"
+    },
+    {
+      "name": "Rafael Jesus",
+      "company": "Pluma Moda",
+      "email": "rafael.jesus@plumamoda.com",
+      "source": "Email",
+      "score": 93,
+      "status": "Qualified",
+      "id": "145"
+    },
+    {
+      "name": "Arthur Teixeira",
+      "company": "Orion Data",
+      "email": "arthur.teixeira@oriondata.com",
+      "source": "LinkedIn",
+      "score": 9,
+      "status": "New",
+      "id": "146"
+    },
+    {
+      "name": "Julia Ortega",
+      "company": "Fênix Seguros",
+      "email": "julia.ortega@fenixseguros.com",
+      "source": "Social",
+      "score": 49,
+      "status": "Converted",
+      "id": "147"
+    },
+    {
+      "name": "Natália Farias",
+      "company": "Amazônia Export",
+      "email": "natalia.farias@amazoniaexport.com",
+      "source": "Referral",
+      "score": 3,
+      "status": "Contacted",
+      "id": "148"
+    },
+    {
+      "name": "Olivia Barbosa",
+      "company": "Orion Data",
+      "email": "olivia.barbosa@oriondata.com",
+      "source": "Email",
+      "score": 4,
+      "status": "Contacted",
+      "id": "149"
+    },
+    {
+      "name": "Fabiana Duarte",
+      "company": "Kosmos Aero",
+      "email": "fabiana.duarte@kosmosaero.com",
+      "source": "LinkedIn",
+      "score": 2,
+      "status": "Contacted",
+      "id": "150"
+    },
+    {
+      "name": "Brenda Moraes",
+      "company": "XLab Biotech",
+      "email": "brenda.moraes@xlabbiotech.com",
+      "source": "Partner",
+      "score": 86,
+      "status": "Converted",
+      "id": "151"
+    },
+    {
+      "name": "Karen Silva",
+      "company": "Horizon Realty",
+      "email": "karen.silva@horizonrealty.com",
+      "source": "Event",
+      "score": 23,
+      "status": "Converted",
+      "id": "152"
+    },
+    {
+      "name": "Mateus Esteves",
+      "company": "Pluma Moda",
+      "email": "mateus.esteves@plumamoda.com",
+      "source": "LinkedIn",
+      "score": 77,
+      "status": "Lost",
+      "id": "153"
+    },
+    {
+      "name": "Nicolas Rezende",
+      "company": "Vita Education",
+      "email": "nicolas.rezende@vitaeducation.com",
+      "source": "Referral",
+      "score": 87,
+      "status": "Converted",
+      "id": "154"
+    },
+    {
+      "name": "Thiago Moraes",
+      "company": "Café Brasil SA",
+      "email": "thiago.moraes@cafebrasilsa.com",
+      "source": "Referral",
+      "score": 14,
+      "status": "Contacted",
+      "id": "155"
+    },
+    {
+      "name": "Karen Hernandez",
+      "company": "Nimbus Cloud",
+      "email": "karen.hernandez@nimbuscloud.com",
+      "source": "Event",
+      "score": 76,
+      "status": "New",
+      "id": "156"
+    },
+    {
+      "name": "Brenda Ximenes",
+      "company": "Gaia Ambiental",
+      "email": "brenda.ximenes@gaiaambiental.com",
+      "source": "Website",
+      "score": 14,
+      "status": "Qualified",
+      "id": "157"
+    },
+    {
+      "name": "Fabiana Yamada",
+      "company": "Kosmos Aero",
+      "email": "fabiana.yamada@kosmosaero.com",
+      "source": "Event",
+      "score": 46,
+      "status": "Converted",
+      "id": "158"
+    },
+    {
+      "name": "Ana Ximenes",
+      "company": "Vita Education",
+      "email": "ana.ximenes@vitaeducation.com",
+      "source": "Social",
+      "score": 68,
+      "status": "Qualified",
+      "id": "159"
+    },
+    {
+      "name": "Carla Ximenes",
+      "company": "BrightWave Media",
+      "email": "carla.ximenes@brightwavemedia.com",
+      "source": "Social",
+      "score": 30,
+      "status": "Converted",
+      "id": "160"
+    },
+    {
+      "name": "Talita Macedo",
+      "company": "BrightWave Media",
+      "email": "talita.macedo@brightwavemedia.com",
+      "source": "Event",
+      "score": 9,
+      "status": "Lost",
+      "id": "161"
+    },
+    {
+      "name": "Diana Yamada",
+      "company": "Umbra Security",
+      "email": "diana.yamada@umbrasecurity.com",
+      "source": "Email",
+      "score": 41,
+      "status": "Lost",
+      "id": "162"
+    },
+    {
+      "name": "Karen Duarte",
+      "company": "Terra Verde Agro",
+      "email": "karen.duarte@terraverdeagro.com",
+      "source": "Event",
+      "score": 53,
+      "status": "Lost",
+      "id": "163"
+    },
+    {
+      "name": "Paulo Souza",
+      "company": "Vita Education",
+      "email": "paulo.souza@vitaeducation.com",
+      "source": "Social",
+      "score": 72,
+      "status": "New",
+      "id": "164"
+    },
+    {
+      "name": "William Jardim",
+      "company": "Horizon Realty",
+      "email": "william.jardim@horizonrealty.com",
+      "source": "Partner",
+      "score": 23,
+      "status": "Lost",
+      "id": "165"
+    },
+    {
+      "name": "Rafael Ferraz",
+      "company": "Nova Energia Ltda",
+      "email": "rafael.ferraz@novaenergialtda.com",
+      "source": "Ads",
+      "score": 46,
+      "status": "Lost",
+      "id": "166"
+    },
+    {
+      "name": "Valeria Rezende",
+      "company": "Pluma Moda",
+      "email": "valeria.rezende@plumamoda.com",
+      "source": "LinkedIn",
+      "score": 53,
+      "status": "Contacted",
+      "id": "167"
+    },
+    {
+      "name": "Karen Quintana",
+      "company": "Helios Energia Solar",
+      "email": "karen.quintana@heliosenergiasolar.com",
+      "source": "Email",
+      "score": 51,
+      "status": "New",
+      "id": "168"
+    },
+    {
+      "name": "Heitor Zanetti",
+      "company": "Fênix Seguros",
+      "email": "heitor.zanetti@fenixseguros.com",
+      "source": "Cold call",
+      "score": 96,
+      "status": "New",
+      "id": "169"
+    },
+    {
+      "name": "Thiago Souza",
+      "company": "Terra Verde Agro",
+      "email": "thiago.souza@terraverdeagro.com",
+      "source": "Ads",
+      "score": 49,
+      "status": "Qualified",
+      "id": "170"
+    }
+  ]
+}
