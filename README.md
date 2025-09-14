@@ -130,30 +130,24 @@ src/
    - Use the status filter to show specific lead statuses
    - Click on column headers to sort data
 
-2. **Creating a Lead**
-
-   - Click the "+" button in the leads table
-   - Fill in the required information (name, company, email, source, score, status)
-   - Click "Save" to create the lead
-
-3. **Editing a Lead**
+2. **Editing a Lead**
 
    - Click on any lead row to open the details sidebar
    - Click "Edit" to modify lead information
    - Make changes and click "Save" to update
 
-4. **Inline Editing**
+3. **Inline Editing**
 
    - Click directly on email or status fields to edit inline
    - Press Enter to save or Escape to cancel
 
-5. **Converting a Lead**
+4. **Converting a Lead**
 
    - Click the arrow icon (→) next to any lead
    - Fill in the opportunity details (name, stage, amount, account name)
    - Click "Convert" to create the opportunity and update lead status to "Converted"
 
-6. **Deleting a Lead**
+5. **Deleting a Lead**
    - Click the trash icon next to any lead
    - Confirm deletion in the dialog
 
